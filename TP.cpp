@@ -1,4 +1,5 @@
 // программа является учебной
+// Kuptsov Egor, KE-217, 2023
 #include <iostream>
 using namespace std;
 
